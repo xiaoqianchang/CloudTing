@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FC5832</color>
+    <color name="colorPrimaryDark">#FC5832</color>
+    <color name="colorAccent">#000000</color>
+
+    <color name="color_bg">#F3F4F5</color>
+
+    <!-- base color 40000000 9000-->
+    <color name="shadow_gray">#9000</color>
+    <color name="shadow_gray2">#40000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#ffffffff</color>
+    <color name="black">#ff1d1c24</color>
+    <color name="pink">#ffE4007F</color>
+    <color name="red">#ffff3a2f</color>
+    <color name="ltred">#ffa52525</color>
+    <color name="orange">#ffff6600</color>
+    <color name="ltorange">#fff02323</color>
+    <color name="orange_ff7b05">#ffff7b05</color>
+    <color name="green_1da2ff">#1da2ff</color>
+    <color name="green">#ff0073dd</color>
+    <color name="blue_133181">#133181</color>
+    <color name="blue_5c6bdc">#5c6bdc</color>
+    <color name="blue">#ff7282f1</color>
+    <color name="ltblue">#ff5c62d9</color>
+    <color name="dblue">#23bef0</color>
+    <color name="ltblack">#ff222222</color>
+    <color name="ltblack2">#222</color>
+    <color name="ltblackthree">#ff333333</color>
+    <color name="gray">#ff333333</color>
+    <color name="grey">#ff666666</color>
+    <color name="ltgray">#ff999999</color>
+    <color name="lightgray">#fff2f2f2</color>
+    <color name="lgray">#fff0f0f6</color>
+    <color name="disable_gray">#ffd6d6d6</color>
+    <color name="bg_tab_gray">#ffF5F5F5</color>
+    <color name="ltgrey">#ffcccccc</color>
+    <color name="graynine">#ff999999</color>
+    <color name="bg_dialog_title_divider">#ff4fa7f6</color>
+    <color name="bg_dialog_btn_divider">#ffc3c3c3</color>
+    <color name="btn_title_disable">#ff777e81</color>
+    <color name="list_item_selector">#fff8fafc</color>
+    <color name="color_divider">#EAEAEA</color>
+
+    <!--item的5.0一下版本选择器颜色-->
+    <color name="itemLowBackground">#d9d9d9</color>
+
+    <color name="color_font_h1">#333333</color>
+    <color name="color_font_h2">#666666</color>
+    <color name="color_font_h3">#999999</color>
+    <color name="color_font_high_light">#FC5832</color>
+</resources>

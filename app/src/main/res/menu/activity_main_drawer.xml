@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_podcasts"
+            android:icon="@mipmap/ic_menu_podcast"
+            android:title="@string/nav_podcasts"/>
+        <item
+            android:id="@+id/nav_radio"
+            android:icon="@mipmap/ic_menu_radio"
+            android:title="@string/nav_radio"/>
+        <item
+            android:id="@+id/nav_subscribed"
+            android:icon="@mipmap/ic_menu_subscribe"
+            android:title="@string/nav_subscribed"/>
+        <item
+            android:id="@+id/nav_history"
+            android:icon="@mipmap/ic_menu_history"
+            android:title="@string/nav_history"/>
+        <item
+            android:id="@+id/nav_downloads"
+            android:icon="@mipmap/ic_menu_downloads"
+            android:title="@string/nav_downloads"/>
+        <item
+            android:id="@+id/nav_favorites"
+            android:icon="@mipmap/ic_menu_favorite"
+            android:title="@string/nav_favorites"/>
+        <item
+            android:id="@+id/nav_countries"
+            android:icon="@mipmap/ic_menu_country"
+            android:title="@string/nav_countries"/>
+        <item
+            android:id="@+id/nav_rate_this_app"
+            android:icon="@mipmap/ic_menu_rate"
+            android:title="@string/nav_rate_this_app"/>
+        <item
+            android:id="@+id/nav_share_to_friends"
+            android:icon="@mipmap/ic_menu_share"
+            android:title="@string/nav_share_to_friends"/>
+        <item
+            android:id="@+id/nav_report_a_problem"
+            android:icon="@mipmap/ic_menu_report"
+            android:title="@string/nav_report_a_problem"/>
+        <item
+            android:id="@+id/nav_setting"
+            android:icon="@mipmap/ic_menu_settings"
+            android:title="@string/nav_setting"/>
+    </group>
+
+    <!--
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share"/>
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send"/>
+        </menu>
+    </item>
+    -->
+
+</menu>
