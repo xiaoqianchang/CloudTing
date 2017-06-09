@@ -22,8 +22,6 @@ import java.util.List;
 
 import butterknife.Bind;
 
-import static com.umeng.analytics.pro.x.R;
-
 /**
  * 主界面
  * <p>
