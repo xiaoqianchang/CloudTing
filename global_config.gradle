@@ -1,0 +1,13 @@
+android {
+//    aaptOptions {
+//        additionalParameters '--package-id',
+//                '0x7a',
+//                '--package-name',
+//                'com.ximalaya.ting.android'
+//        cruncherEnabled false
+//        noCompress 'foo', 'bar'
+//        ignoreAssetsPattern '!.svn:!.git:!.ds_store:!*.scc:.*:<dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~'
+//    }
+    compileSdkVersion 24
+    buildToolsVersion '25.0.2'
+}

@@ -33,6 +33,13 @@ dependencies {
         exclude group: 'com.android.support', module: 'support-annotations'
     })
 
+    // framework project
+    if(useArtifacts) {
+        compile 'com.morgoo.droidplugin:droidplugin-'+REPO_BRANCH+':+'
+    }else {
+        compile project(':XAndroidFramework:DroidPlugin')
+    }
+
     compile 'com.android.support:appcompat-v7:25.3.1'
     compile 'com.android.support:design:25.3.1'
     compile 'com.android.support.constraint:constraint-layout:1.0.2'

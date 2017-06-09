@@ -1,0 +1,3 @@
+[submodule "XAndroidFramework"]
+	path = XAndroidFramework
+	url = git@gitlab.ximalaya.com:zhu/XAndroidFramework.git
